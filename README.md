@@ -8,3 +8,4 @@ To go through the code, you will need an android studio fully setup ater which y
 ### Dependencies 
  - material design 
  - Recycler view
+ - Constraint 
